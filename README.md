@@ -202,10 +202,10 @@ Account 705540354455 Scan Results (severity columns are for fails only):
 * You only see here those services that contains resources.
 
 Detailed results are in:
- - HTML: /opt/prowler/output/prowler-output-705540354455-20231013082938.html
- - JSON-OCSF: /opt/prowler/output/prowler-output-705540354455-20231013082938.ocsf.json
- - CSV: /opt/prowler/output/prowler-output-705540354455-20231013082938.csv
- - JSON: /opt/prowler/output/prowler-output-705540354455-20231013082938.json
+ - HTML: /opt/prowler/output/prowler-output-7----------5-20231013082938.html
+ - JSON-OCSF: /opt/prowler/output/prowler-output-7----------5-20231013082938.ocsf.json
+ - CSV: /opt/prowler/output/prowler-output-7----------5-20231013082938.csv
+ - JSON: /opt/prowler/output/prowler-output-7----------5-20231013082938.json
 
 Compliance Status of CIS-1.4 Framework:
 ╭───────────────────┬──────────────────╮
